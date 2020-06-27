@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Live Site
+## Live Game
 https://lights-out-game1904.netlify.app/
 
 ## Available Scripts
